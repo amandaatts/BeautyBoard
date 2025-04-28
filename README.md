@@ -1,20 +1,35 @@
-BeautyBoard
-BeautyBoard é uma aplicação que permite criar e gerenciar uma lista de produtos de beleza e cuidados pessoais, com funcionalidades para marcar como comprados, editar e excluir produtos. Além disso, ao completar a lista de produtos comprados,.
+# 🌸 **BeautyBoard** 🌸
 
-Funcionalidades
-Adicionar Produtos: É possível adicionar novos produtos à lista com informações como nome, imagem, preço, descrição e prioridade (Baixa, Média, Alta).
+**BeautyBoard** é uma aplicação prática, criada para você organizar sua lista de produtos de beleza e cuidados pessoais. Aqui você pode adicionar, editar e excluir seus produtos com facilidade, e ainda acompanhar seu progresso enquanto vai marcando os produtos como comprados! 
 
-Editar Produtos: Permite editar informações dos produtos já adicionados.
+---
 
-Excluir Produtos: Exclui produtos da lista.
+## ✨ **Funcionalidades** ✨
 
-Marcar como Comprado: Ao comprar um produto, é possível marcá-lo como "comprado".
+- **Adicionar Produtos**:  
+  Adicione novos produtos à sua lista, com detalhes como nome, imagem, preço, descrição e a prioridade (Baixa, Média, Alta).
+  
+- **Editar Produtos**:  
+   Edite qualquer informação dos produtos que já foram adicionados.
+  
+- **Excluir Produtos**:  
+  Exclua os produtos da sua lista quando não precisar mais deles.
+  
+- **Marcar como Comprado**:  
+  Marque os produtos que você já comprou para acompanhar seu progresso.
+  
+- **Visualização de Progresso**:  
+  Acompanhe o status da sua lista com uma barra de progresso que mostra quantos produtos você já comprou.
 
-Visualização de Progresso: A aplicação exibe um progresso de compras com base na quantidade de produtos comprados.
+---
 
-Tecnologias Utilizadas
-React: Biblioteca JavaScript para a construção da interface de usuário.
+## 🛠 **Tecnologias Utilizadas** 🛠
 
-React-Bootstrap: Biblioteca de componentes de UI para facilitar o design responsivo.
+- **React**:  
 
-CSS: Estilos personalizados para a aplicação.
+- **React-Bootstrap**:  
+
+- **CSS**:  
+
+---
+
