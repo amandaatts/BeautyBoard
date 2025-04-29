@@ -25,11 +25,11 @@
 
 ## 🛠 **Tecnologias Utilizadas** 🛠
 
-- **React**:  
+- **React**
 
-- **React-Bootstrap**:  
+- **React-Bootstrap**
 
-- **CSS**:  
+- **CSS**
 
 ---
 
